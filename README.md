@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java programming language
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me +112 602433384
+- 📫 How to reach me +212 602433384
 
 <!---
 MouadOumous/MouadOumous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
