@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MouadOumous
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java programming language
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me +212 602433384
 
