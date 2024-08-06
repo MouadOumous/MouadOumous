@@ -6,5 +6,5 @@
 
 ![Mouad Oumous's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouadoumous&count_private=true&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muoadoumous&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadoumous&hide_progress=true)
 
